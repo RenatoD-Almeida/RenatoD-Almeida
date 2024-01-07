@@ -1,12 +1,6 @@
 <img src="./assets/mario_pixelArt.gif" alt="mario programming">
 
-<div 
-    style="
-    display:flex;
-    justify-content: center;
-    font-size: 24px
-    "
->
+<div align="center">
     Hi there, I'm Renato 👋
 </div>
 
