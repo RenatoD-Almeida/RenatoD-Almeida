@@ -1,4 +1,14 @@
-### Hi there 👋
+<img src="./assets/mario_pixelArt.gif" alt="mario programming">
+
+<div 
+    style="
+    display:flex;
+    justify-content: center;
+    font-size: 24px
+    "
+>
+    Hi there, I'm Renato 👋
+</div>
 
 <!--
 **RenatoD-Almeida/RenatoD-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
