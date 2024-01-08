@@ -1,7 +1,9 @@
-<img src="./assets/mario_pixelArt.gif" alt="mario programming" align="right" width="50%" >
-<h2>Hi there, I'm Renato 👋</h2>
+<img src="./assets/mario_pixelArt.gif" alt="mario programming" align="center">
 
-
+<h2 align="center">Hey aí, Seja Bem vindo; Sou Renato 👋<h2/>
+<h3>Sobre mim</h1>
+# Sou desenvolvedor full stack, atualmente atuo como pogramador na empresa
+[Alfa](https://www.linkedin.com/company/alfa-consultorias/)
 
 <!--
 **RenatoD-Almeida/RenatoD-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
