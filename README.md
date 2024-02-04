@@ -24,7 +24,6 @@
 
 
 
-
 Sou desenvolvedor full stack, atualmente atuo como pogramador na empresa
 [Alfa](https://www.linkedin.com/company/alfa-consultorias/)
 
@@ -41,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->t
+-->
